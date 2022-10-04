@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "I write a few practical tests for JavaScript functions using the Jest library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miliyonayalew/Testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miliyonayalew/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/Miliyonayalew/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
